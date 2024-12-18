@@ -1,0 +1,220 @@
+
+.design-5 {
+    left: 0;
+    min-height: 1008px;
+    padding: 542px 12.874043% 97px; /* 185px / 1437px = 12.874043% */
+    position: absolute;
+    top: 0;
+    width: 100%; /* 1437px / 1437px = 100% */
+    background: url(images/shape_7.png) no-repeat center 0;
+    background-position: center top;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  .row {
+    position: relative;
+    width: 71.321465%; /* 761px / 1067px = 71.321465% */
+  }
+  .shape-14 {
+    float: left;
+    margin: 1px 0 0;
+    width: 6px;
+  }
+  .shape-15 {
+    float: left;
+    margin: 0 0 0 49.408672%; /* 376px / 761px = 49.408672% */
+    width: 6px;
+  }
+  .shape-16 {
+    float: left;
+    margin: 1px 0 0 48.226017%; /* 367px / 761px = 48.226017% */
+    width: 6px;
+  }
+  .button-2 {
+    left: 0.421743%;
+    margin: 310px auto 0;
+    min-height: 33px;
+    padding: 0 2.783577%; /* 40px / 1437px = 2.783577% */
+    position: relative;
+    top: 4rem;
+    width: 16.307404%; /* 174px / 1067px = 16.307404% */
+    border: 1px solid #0cc4df; /*stroke*/
+    font-size: 104.16669%; /* 16.67px / 16px = 104.1875% */
+    line-height: 33px;
+    text-align: center;
+  }
+  .group-8 {
+    height: 1001px;
+    margin: -36px 0 0;
+    overflow: hidden;
+    position: relative;
+    width: 100%; /* 1440px / 1440px = 100% */
+    z-index: 43;
+  }
+  .background-3 {
+    height: 968px;
+    left: 0;
+    position: absolute;
+    top: 33px;
+    width: 100%; /* 1440px / 1440px = 100% */
+    background: #1f262f;
+  }
+  .design-6 {
+    height: 997px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 96.25%; /* 1386px / 1440px = 96.25% */
+  }
+  .place-your-image-here-double-click-to-edit-6 {
+    left: 9.523809%;
+    max-width: 474px;
+    position: absolute;
+    top: 195px;
+    width: 34.199135%; /* 474px / 1386px = 34.199135% */
+    margin-top: 40px;
+  }
+  .shape-17 {
+    max-width: 716px;
+    position: relative;
+    top: 0;
+    margin-top: 40px;
+    /* bottom: 5rem; */
+    width: 51.65945%; /* 716px / 1386px = 51.65945% */
+  }
+  .line-5 {
+    height: 2px;
+    left: 58.080807%;
+    position: absolute;
+    top: 651px;
+    width: 38.311687%; /* 531px / 1386px = 38.311687% */
+    border: 1px solid #0cc4df; /*stroke*/
+  }
+  .text-11 {
+    left: 11.399712%;
+    position: absolute;
+    top: 138px;
+    width: 88.60029%; /* 1228px / 1386px = 88.60029% */
+  }
+  .title-13 {
+    float: left;
+    margin: 630px 0 0;
+    width: 31.107492%; /* 382px / 1228px = 31.107492% */
+    color: #0cc4df;
+    font-family: 'Permanent Marker', handwriting;
+    font-size: 208.33331%; /* 33.33px / 16px = 208.31252% */
+    letter-spacing: 0;
+    line-height: 1.2;
+    text-transform: uppercase;
+  }
+  .col-6 {
+    float: right;
+    position: relative;
+    width: 48.127037%; /* 591px / 1228px = 48.127037% */
+  }
+  .title-14 {
+    left: 0.676819%;
+    margin: 0 auto;
+    position: relative;
+    width: 98.64636%; /* 583px / 591px = 98.64636% */
+    color: #ffffff;
+    font-size: 312.5%; /* 50px / 16px = 312.5% */
+    font-weight: bold;
+    line-height: 116.66666%; /* 58.33px / 50px = 116.66% */
+    text-transform: uppercase;
+  }
+  .subtitle-7 {
+    margin: 81px 0 0;
+    color: #ffffff;
+    font-size: 208.33331%; /* 33.33px / 16px = 208.31252% */
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  .body-text-13 {
+    margin: 26px 0 0 1.353638%; /* 8px / 591px = 1.353638% */
+    width: 91.878174%; /* 543px / 591px = 91.878174% */
+    color: #ffffff;
+    font-size: 156.25%; /* 25px / 16px = 156.25% */
+    line-height: 183.33331%; /* 45.83px / 25px = 183.32% */
+  }
+  .text-12 {
+    margin: 61px 0 0 1.353638%; /* 8px / 591px = 1.353638% */
+    width: 83.41794%; /* 493px / 591px = 83.41794% */
+    color: #ffffff;
+    font-size: 156.25%; /* 25px / 16px = 156.25% */
+    line-height: 166.66669%; /* 41.67px / 25px = 166.68% */
+  }
+  .row-11 {
+    margin: 33px 0 0 1.353638%; /* 8px / 591px = 1.353638% */
+    position: relative;
+    width: 98.64636%; /* 583px / 591px = 98.64636% */
+  }
+  .date-3 {
+    float: left;
+    margin: 2px 0.171527% 0 0; /* 1px / 583px = 0.171527% */
+    width: 33.10463%; /* 193px / 583px = 33.10463% */
+    color: #ffffff;
+    font-size: 156.25%; /* 25px / 16px = 156.25% */
+    font-weight: bold;
+    line-height: 133.33331%; /* 33.33px / 25px = 133.32% */
+  }
+  .price-2 {
+    float: left;
+    width: 42.71012%; /* 249px / 583px = 42.71012% */
+    color: #ffffff;
+    font-size: 156.25%; /* 25px / 16px = 156.25% */
+    font-weight: bold;
+    line-height: 166.66669%; /* 41.67px / 25px = 166.68% */
+  }
+  .image-4 {
+    margin: -5px 0 0;
+    padding: 0 0 2px;
+    position: relative;
+    width: 100%; /* 1440px / 1440px = 100% */
+    z-index: 6;
+    background: url(images/place_your_image_here_dou.jpg) no-repeat center 0;
+    background-position: center top;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  .col-4 {
+    min-height: 577px;
+    padding: 180px 0 53px;
+    position: relative;
+    background: rgba(31, 38, 47, 0.66);
+  }
+  .body-text-14 {
+    margin: 0 auto;
+    width: 52.84722%; /* 761px / 1440px = 52.84722% */
+    color: #ffffff;
+    font-family: 'Permanent Marker', handwriting;
+    font-size: 208.33331%; /* 33.33px / 16px = 208.31252% */
+    line-height: 175.01749%; /* 58.33px / 33.33px = 175.00749% */
+    text-align: center;
+    text-transform: uppercase;
+  }
+  .shape-18 {
+    display: block;
+    margin: 19px auto 0;
+    width: 92px;
+  }
+
+.button-3 {
+    margin: 44px auto 0;
+    min-height: 33px;
+    padding: 0 2.777778%; /* 40px / 1440px = 2.777778% */
+    border: 1px solid #0cc4df; /*stroke*/
+    color: #ffffff;
+    font-size: 104.16669%; /* 16.67px / 16px = 104.1875% */
+    line-height: 33px;
+    text-align: center;
+    width: 200px;
+    cursor: pointer;
+    background: transparent;
+    position: relative;
+    left: 40rem;
+  }
